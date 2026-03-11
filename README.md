@@ -20,8 +20,7 @@ A modular Node.js backend that automates WhatsApp Web to send messages via a RES
 1. **Clone the repo:**
    ```bash
    git clone <repo-link>
-   cd whatsapp-api-bridge
-```
+   cd whatsapp-api-bridge```
 
 2. **Install dependencies:**
 ```bash
@@ -66,4 +65,3 @@ npm test
 
 ```
 
-```
